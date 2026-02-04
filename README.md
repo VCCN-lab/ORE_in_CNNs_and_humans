@@ -7,7 +7,7 @@ This repository contains the code to reproduce the analyses for the paper above 
 in VGG16 was probed and compared to human behavior.
 
 ## Repository structure
-
+```text
 .
 ├── activations/              # Contain the activation of the VGG16 for the test stimuli extracted from penultimate convolutional layer
 ├── experiment_data/          # Anonymized data from human behavior (task: triplet matching task for face identities)
@@ -18,7 +18,7 @@ in VGG16 was probed and compared to human behavior.
 └── LICENSE                   # License terms under which the code and data of this repo can be used
 └── requirements.txt          # List of the packages you need to run the analyses
 └── README.md
-
+```
 
 ## Contact
 
